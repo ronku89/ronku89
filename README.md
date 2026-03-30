@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Data Analyst aspirant with a strong interest in data-driven problem solving<br><br>🐍 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, and exploratory data analysis<br><br>🧠 Actively learning Data Science, Machine Learning basics, and statistics through hands-on projects<br><br>📈 Experience working with real-world datasets (telecom churn, business & reporting use-cases)<br><br>🛠️ Focused on writing clean, readable, and well-documented code<br><br>🌱 Consistent learner, improving analytical thinking and problem-solving skills every day<br><br>🎯 Career goal: Data Analyst / Reporting Analyst / MIS Executive roles in data-driven organisations
+📊 Data Scientist aspirant with a strong interest in data-driven problem solving<br><br>🐍 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, and exploratory data analysis<br><br>🧠 Actively learning Data Science, Machine Learning basics, and statistics through hands-on projects<br><br>📈 Experience working with real-world datasets (telecom churn, business & reporting use-cases)<br><br>🛠️ Focused on writing clean, readable, and well-documented code<br><br>🌱 Consistent learner, improving analytical thinking and problem-solving skills every day<br><br>🎯 Career goal: Data Analyst / Reporting Analyst / MIS Executive roles in data-driven organisations
 
 
 ## 🌐 Socials:
